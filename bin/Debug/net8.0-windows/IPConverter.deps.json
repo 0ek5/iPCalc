@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IPConverter/1.0.0": {
+        "dependencies": {
+          "IPNetwork2": "3.0.667"
+        },
+        "runtime": {
+          "IPConverter.dll": {}
+        }
+      },
+      "IPNetwork2/3.0.667": {
+        "runtime": {
+          "lib/net8.0/System.Net.IPNetwork.dll": {
+            "assemblyVersion": "3.0.667.0",
+            "fileVersion": "3.0.667.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPNetwork2/3.0.667": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0GgNIm12cDtI0Kc8oaVbgSQgqQ+yJuOyf1oyJ9eQ+Xt4uQ/2ZTvoTf6KBuRxjWF7rTD+1AreUES5khMecGAuTg==",
+      "path": "ipnetwork2/3.0.667",
+      "hashPath": "ipnetwork2.3.0.667.nupkg.sha512"
+    }
+  }
+}
