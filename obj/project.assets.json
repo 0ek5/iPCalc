@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\IPConverter\\IPConverter.csproj",
+      "projectUniqueName": "C:\\Users\\user\\repos\\iPCalc\\IPConverter.csproj",
       "projectName": "IPConverter",
-      "projectPath": "C:\\Users\\user\\Desktop\\IPConverter\\IPConverter.csproj",
+      "projectPath": "C:\\Users\\user\\repos\\iPCalc\\IPConverter.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\IPConverter\\obj\\",
+      "outputPath": "C:\\Users\\user\\repos\\iPCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363295cc5266ef19acf7761a36fabaff54ef0a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

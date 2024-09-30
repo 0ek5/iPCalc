@@ -93,7 +93,7 @@
         <TextBox Grid.Row="9" Grid.Column="1" Text="{Binding Error, Mode=TwoWay}" IsReadOnly="True" Background="#444444" Foreground="White" FontWeight="Bold"/>
 
         <!-- IP Address Input -->
-        <Label Grid.Row="10" Grid.Column="0" Margin="5" VerticalAlignment="Center" Content="IP Address:"/>
+        <Label Grid.Row="10" Grid.Column="0" Margin="5" VerticalAlignment="Center" Content="IP Address/CIDR:"/>
         <TextBox Grid.Row="10" Grid.Column="1" Margin="5" Text="{Binding NetworkingIP, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" />
 
         <!-- Network Address Output -->
@@ -125,13 +125,13 @@
         <Label Grid.Row="17" Grid.Column="0" Margin="5" VerticalAlignment="Center" Content="Usable:"/>
         <TextBox Grid.Row="17" Grid.Column="1" Margin="5" VerticalAlignment="Center" Text="{Binding Usable, Mode=TwoWay}" IsReadOnly="True"/>
 
-        <ListBox Grid.Row="1" Grid.RowSpan="17" Grid.Column="2" 
+        <!--<ListBox Grid.Row="1" Grid.RowSpan="17" Grid.Column="2" 
                  ItemsSource="{Binding IPAddresses}" 
                  Background="#444444" 
                  Foreground="White" 
                  BorderBrush="#555555" 
                  BorderThickness="1" 
-                 Padding="5" />
+                 Padding="5" />-->
 
     </Grid>
     
